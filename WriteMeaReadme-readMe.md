@@ -1,6 +1,6 @@
-# Write this ReadMe
+# WriteMeaReadme
     
-    ![shields.io](https://img.shields.io/badge/license-undefined)
+    ![badge](https://img.shields.io/badge/license-undefined)
     
     ## Table Of Contents
     1.  [Description](#description)
@@ -21,35 +21,35 @@
 
     ### Instructions
 
-    do the thing
+    do it
 
     _________________________________
 
     ### Usage
 
-    do it goo
+    do it good
 
     _________________________________
     
         ### Test
     
-        Me
+        me
     
         _________________________________
 
     ### Collaborating
 
-    Me
+    me
 
     _________________________________
     ### Contact Me
 
     #### Ryan
-    - [E-mail](mailto:Rsaldaen@gmail.com)
+    - [E-mail](mailto:rsaldaen@email)
     - [Github](Rsaldaen)
     _________________________________
 
     ### License
 
-    This application is [licensed](undefined) under the MIT
+    This application is [licensed](undefined) under the MIT,The Unlicense
     

@@ -26,11 +26,11 @@ function getLicense(answers) {
 }
 
 function generateMarkdown(answers) {
-    getLicense(answers)
+    getLicense(answers);
     
     return `# ${answers.promptTitle}
     
-    ![shields.io](https://img.shields.io/badge/license-${licenseImg})
+    ![badge](https://img.shields.io/badge/license-${licenseImg})
     
     ## Table Of Contents
     1.  [Description](#description)
